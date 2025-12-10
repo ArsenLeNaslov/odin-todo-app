@@ -4,7 +4,7 @@ A nebula-themed To Do List App that organises tasks across multiple projects. It
 
 Referencing Odin's Project: [To Do List App](https://www.theodinproject.com/lessons/node-path-javascript-todo-list)
 
-Live preview: [Odin's To Do App](https://arsenlenaslov.github.io/odin-to-app/)
+Live preview: [Odin's To Do App](https://arsenlenaslov.github.io/odin-todo-app/)
 
 <img width="2729" height="1451" alt="Odin To Do App" src="https://github.com/user-attachments/assets/2668492a-30ee-4d2f-addb-96a371a1ed4d" />
 
