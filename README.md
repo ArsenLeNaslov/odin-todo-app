@@ -6,7 +6,7 @@ Referencing Odin's Project: [To Do List App](https://www.theodinproject.com/less
 
 Live preview: [Odin's To Do App](https://arsenlenaslov.github.io/odin-todo-app/)
 
-<img width="2729" height="1451" alt="Odin To Do App" src="https://github.com/user-attachments/assets/2668492a-30ee-4d2f-addb-96a371a1ed4d" />
+<img width="2729" height="1451" alt="Odin To Do App" src="https://github.com/user-attachments/assets/a7655a06-216a-455a-beb4-53bb3e837359" />
 
 ## Features
 - **Create and Manage Projects**: Add multiple projects and switch between them.
